@@ -80,3 +80,9 @@ Aurora is a full-stack, multi-modal AI health platform built for the modern well
    ```bash
    npx expo start
    ```
+
+---
+
+## 👨‍💻 About the Developer
+Built with passion by **Akshay Parimi**. 
+Check out my other projects and background at my **[Portfolio Website](https://akshayparimi18.github.io/)**.
