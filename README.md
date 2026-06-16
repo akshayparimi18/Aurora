@@ -6,8 +6,7 @@ Aurora is a full-stack, multi-modal AI health platform built for the modern well
 
 ## 📺 Project Presentation
 
-* **3-Minute Technical Demo Video:** [Watch the Demo on YouTube/Vimeo](YOUR_VIDEO_LINK_HERE)
-* **Production Artifact Build:** [Download Aurora Android APK](YOUR_EXPO_OR_DRIVE_APK_LINK_HERE)
+* **Production Artifact Build:** [Download Aurora Android APK](https://expo.dev/artifacts/eas/ImRuQbkRs0yObV9yte7IFZGeK8tVYC0SDB9xL9qdbYQ.apk)
 
 ---
 
